@@ -29,7 +29,7 @@ Welcome to the Minesweeper game implemented in C! This classic game provides a c
 ## Customization
 
 - **Adjust Grid Size**: In the source code, you can modify the `ROWS` and `COLS` constants to change the dimensions of the game board.
-- **Change Mine Density**: The `MINE_DENSITY` constant determines the percentage of cells that contain mines. Adjust this value for easier or more challenging games.
+- **Change Mine Density**: The `MINES` constant determines the percentage of cells that contain mines. Adjust this value for easier or more challenging games.
 
 ## Dependencies
 
